@@ -1,0 +1,1 @@
+=SUM(IF(MMULT(--(matrix=vector),--TRANSPOSE(vector=vector))=COLUMNS(vector),1))
