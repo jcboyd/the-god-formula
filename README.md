@@ -8,4 +8,4 @@ The God formula is the analytic continuation of the COUNT formula to tabular dat
 
 "[...] it would be the ultimate triumph of human reason -- for then we should know the mind of God." - Stephen Hawking, A Brief History of Time (p. 193)
 
-![The God formula demo](http://jcboyd.github.io/the-god-formula/god.gif)
+![The God formula demo](http://jcboyd.github.io/assets/the-god-formula/god.gif)
