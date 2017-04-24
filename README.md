@@ -1,4 +1,4 @@
-#the-god-formula
+# the-god-formula
 
 The God formula is a spreadsheet formula, widely considered the greatest ever written. It solves a problem that is seemingly impossible (without resorting to hacks) with the spectacular deployment of the built-in MMULT (matrix multiplication) formula.
 
